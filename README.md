@@ -1,6 +1,8 @@
 # Crowdfunding_ETL
 Project 2 Data Analytics Challenge
+
 ​----------------------------------------------------------------------------
+
 For the ETL mini project, we have worked in a team to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, we have created four CSV files and used the CSV file data to create an ERD and a table schema. Lastly, we have uploaded the CSV file data into a Postgres database.
 ​
 Before starting the work on the project:
